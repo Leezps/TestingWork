@@ -1,0 +1,235 @@
+{
+    "TestName": "Android第五次实验报告",
+    "TestPath": "X:\\Users\\Leezp\\Desktop\\Three_University_lower\\Android\\Android第五次实验报告\\",
+    "SaveUnPaid": "X:\\Users\\Leezp\\Desktop\\Three_University_lower\\Android\\AndroidInfo.txt",
+    "Person": [
+        {
+            "PersonId": "2014110457",
+            "PersonName": "张汪"
+        },
+        {
+            "PersonId": "2014110424",
+            "PersonName": "刘兴文"
+        },
+        {
+            "PersonId": "2014110563",
+            "PersonName": "曾左英"
+        },
+        {
+            "PersonId": "2014110444",
+            "PersonName": "肖鹏坤"
+        },
+        {
+            "PersonId": "2014110419",
+            "PersonName": "李宗佩"
+        },
+        {
+            "PersonId": "2014070732",
+            "PersonName": "马智勤"
+        },
+        {
+            "PersonId": "2014110459",
+            "PersonName": "周锐"
+        },
+        {
+            "PersonId": "2014110454",
+            "PersonName": "张俊"
+        },
+        {
+            "PersonId": "2014110456",
+            "PersonName": "张蕊榕"
+        },
+        {
+            "PersonId": "2014110415",
+            "PersonName": "赖雪"
+        },
+        {
+            "PersonId": "2014110417",
+            "PersonName": "李德阳"
+        },
+        {
+            "PersonId": "2014110425",
+            "PersonName": "刘镇兵"
+        },
+        {
+            "PersonId": "2014110445",
+            "PersonName": "辛勉"
+        },
+        {
+            "PersonId": "2014110437",
+            "PersonName": "宋小玲"
+        },
+        {
+            "PersonId": "2014110435",
+            "PersonName": "沈丹"
+        },
+        {
+            "PersonId": "2014110401",
+            "PersonName": "陈佳俊"
+        },
+        {
+            "PersonId": "2014110423",
+            "PersonName": "刘宏伟"
+        },
+        {
+            "PersonId": "2014110413",
+            "PersonName": "黄义高"
+        },
+        {
+            "PersonId": "2014110451",
+            "PersonName": "余双"
+        },
+        {
+            "PersonId": "2014110427",
+            "PersonName": "龙琴"
+        },
+        {
+            "PersonId": "2014110431",
+            "PersonName": "罗锐鑫"
+        },
+        {
+            "PersonId": "2014110449",
+            "PersonName": "尤媛"
+        },
+        {
+            "PersonId": "2014110573",
+            "PersonName": "周进"
+        },
+        {
+            "PersonId": "2014110432",
+            "PersonName": "马菡露"
+        },
+        {
+            "PersonId": "2014110434",
+            "PersonName": "秦秋"
+        },
+        {
+            "PersonId": "2014110405",
+            "PersonName": "付丽玲"
+        },
+        {
+            "PersonId": "2014110410",
+            "PersonName": "黄从芬"
+        },
+        {
+            "PersonId": "2014110439",
+            "PersonName": "谭亚梅"
+        },
+        {
+            "PersonId": "2014110448",
+            "PersonName": "易子程"
+        },
+        {
+            "PersonId": "2014110452",
+            "PersonName": "余正峰"
+        },
+        {
+            "PersonId": "2014110436",
+            "PersonName": "石潇潇"
+        },
+        {
+            "PersonId": "2014110554",
+            "PersonName": "杨涛"
+        },
+        {
+            "PersonId": "2014110442",
+            "PersonName": "魏俊"
+        },
+        {
+            "PersonId": "2014110416",
+            "PersonName": "黎镜"
+        },
+        {
+            "PersonId": "2014110408",
+            "PersonName": "贺彩虹"
+        },
+        {
+            "PersonId": "2014110447",
+            "PersonName": "杨枫"
+        },
+        {
+            "PersonId": "2014110411",
+            "PersonName": "黄露露"
+        },
+        {
+            "PersonId": "2014110438",
+            "PersonName": "苏俊梅"
+        },
+        {
+            "PersonId": "2014110407",
+            "PersonName": "何彦敏"
+        },
+        {
+            "PersonId": "2014110412",
+            "PersonName": "黄棋"
+        },
+        {
+            "PersonId": "2014110420",
+            "PersonName": "梁静"
+        },
+        {
+            "PersonId": "2014110458",
+            "PersonName": "张玉林"
+        },
+        {
+            "PersonId": "2014110440",
+            "PersonName": "唐左友"
+        },
+        {
+            "PersonId": "2014110433",
+            "PersonName": "马维"
+        },
+        {
+            "PersonId": "2014110418",
+            "PersonName": "李名焕"
+        },
+        {
+            "PersonId": "2014110422",
+            "PersonName": "林颖"
+        },
+        {
+            "PersonId": "2014110453",
+            "PersonName": "张衡"
+        },
+        {
+            "PersonId": "2014110443",
+            "PersonName": "文怡"
+        },
+        {
+            "PersonId": "2014110441",
+            "PersonName": "屠强"
+        },
+        {
+            "PersonId": "2013110449",
+            "PersonName": "岳子凯"
+        },
+        {
+            "PersonId": "2014110455",
+            "PersonName": "张林华"
+        },
+        {
+            "PersonId": "2014110421",
+            "PersonName": "林桦川"
+        },
+        {
+            "PersonId": "2014110402",
+            "PersonName": "谌邹辉"
+        },
+        {
+            "PersonId": "2014110430",
+            "PersonName": "罗鹏"
+        },
+        {
+            "PersonId": "2014110404",
+            "PersonName": "冯嘉玲"
+        },
+        {
+            "PersonId": "2014110429",
+            "PersonName": "罗浩"
+        },
+        {
+            "PersonId": "2014180424",
+            "PersonName": "赖红江"
+        }
+    ]
+}
